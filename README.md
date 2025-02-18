@@ -1,2 +1,2 @@
-# Algorithm and Datastructures
+# Algorithms and Datastructures
 Just some LeetCode and HakerRank problems 
